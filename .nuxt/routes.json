@@ -1,51 +1,43 @@
 [
   {
     "path": "/",
-    "component": "D:\\\\train\\\\part3-3\\\\part3-3\\\\pages\\\\layout",
+    "component": "/Users/zhangwei/Documents/web/trainingCamp/part3-3/vue-ssr/pages/layout",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "D:\\\\train\\\\part3-3\\\\part3-3\\\\pages\\\\home",
-        "_name": "_39b70147"
+        "component": "/Users/zhangwei/Documents/web/trainingCamp/part3-3/vue-ssr/pages/home"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\train\\\\part3-3\\\\part3-3\\\\pages\\\\login",
-        "_name": "_053d1ffe"
+        "component": "/Users/zhangwei/Documents/web/trainingCamp/part3-3/vue-ssr/pages/login"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\train\\\\part3-3\\\\part3-3\\\\pages\\\\login",
-        "_name": "_053d1ffe"
+        "component": "/Users/zhangwei/Documents/web/trainingCamp/part3-3/vue-ssr/pages/login"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\train\\\\part3-3\\\\part3-3\\\\pages\\\\profile",
-        "_name": "_03ec4441"
+        "component": "/Users/zhangwei/Documents/web/trainingCamp/part3-3/vue-ssr/pages/profile"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\train\\\\part3-3\\\\part3-3\\\\pages\\\\settings",
-        "_name": "_0adc548b"
+        "component": "/Users/zhangwei/Documents/web/trainingCamp/part3-3/vue-ssr/pages/settings"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\train\\\\part3-3\\\\part3-3\\\\pages\\\\editor",
-        "_name": "_bb7e9856"
+        "component": "/Users/zhangwei/Documents/web/trainingCamp/part3-3/vue-ssr/pages/editor"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\train\\\\part3-3\\\\part3-3\\\\pages\\\\article",
-        "_name": "_2a92f0e4"
+        "component": "/Users/zhangwei/Documents/web/trainingCamp/part3-3/vue-ssr/pages/article"
       }
-    ],
-    "_name": "_a3e0e4dc"
+    ]
   }
 ]
